@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "name": "express_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Stolkens/express_app.git",
+  "author": "Stolkens <92957952+Stolkens@users.noreply.github.com>",
+  "license": "MIT"
+}
